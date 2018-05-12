@@ -1,0 +1,43 @@
+_repo: The-Stories-of-El-Dorado_42823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42823-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wait, Frona Eunice
+    aliases:
+    - Colburn, Mrs. Frederick H.
+    - Waite, Frona Eunice
+    - Colburn, Frona Eunice Wait (Smith)
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '41872'
+    url: http://www.gutenberg.org/2009/agents/41872
+description: ''
+gutenberg_issued: '2013-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Folklore'
+- !lcsh 'El Dorado -- Legends'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Indians of Central America -- Folklore'
+tableOfContents: The Happy Island -- Zamna, the Eye of the Sun -- Votan, the People's
+  Heart -- Lord of the Sacred Tunkel -- The stars' ball -- The National Book -- Manco-Capac,
+  the powerful one -- Bochica and the Zipa -- The song of Hiawatha -- Michabo, the
+  Great White Hare -- The birth of corn -- The Wrathy Chieftain -- Quetzalcoatl, the
+  plumed serpent -- Cholula, the sacred city -- Tulla, the hiding nook of the snake
+  -- Departure of the Golden Hearted -- El Dorado, the Golden -- Bimini, the Fountain
+  of Youth -- Montezuma and the Paba -- The Child of the Sun -- The Gilded Man --
+  The White Sea of the Manoas -- The Mountain of Gold -- The Amazon Queens -- The
+  Seven Cities of Cibola -- The Kingdom of Quivera -- The land of gold -- The new
+  El Dorado -- Appendix.
+title: The Stories of El Dorado
+url: http://www.gutenberg.org/ebooks/42823
